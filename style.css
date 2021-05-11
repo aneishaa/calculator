@@ -24,3 +24,18 @@ input[type="text"] {
     margin-top: 140px;
     /* margin-left: 100px; */
 }
+
+@media screen and (min-width: 601px) {
+   div.example {
+     font-size: 80px;
+     
+   }
+ }
+ 
+ /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+ @media screen and (max-width: 600px) {
+   div.example {
+     font-size: 30px;
+     width:20px;
+   }
+ }
