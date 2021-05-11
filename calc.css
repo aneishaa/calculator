@@ -1,0 +1,26 @@
+
+.title {
+   margin-bottom: 10px;
+   text-align: center;
+   width: 263px;
+   color: red;
+   border: solid black 2px;
+}
+
+input[type="button"] {
+   background-color: plum;
+   color: black;
+   border: solid black 2px;
+   width: 100%
+}
+
+input[type="text"] {
+   background-color: white;
+   border: solid black 2px;
+   width: 100%
+}
+
+.cls1{
+    margin-top: 140px;
+    /* margin-left: 100px; */
+}
